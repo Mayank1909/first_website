@@ -1,0 +1,32 @@
+.new{
+	color: black;
+}
+.head:hover{
+	color: purple;
+}
+h1:hover{
+	color:blue;
+}
+li:nth-child(2)
+{
+ color:red;
+}
+.anim:hover{
+	color: green;
+}
+#contact-us{
+	color:green;
+}
+body
+{
+	background-image: url("../images/bg.png");
+	background-color: lightgray;
+}
+img
+{
+	   :centre ;
+	border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
